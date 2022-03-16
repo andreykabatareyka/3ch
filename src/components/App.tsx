@@ -1,3 +1,9 @@
+import { Form } from 'components'
+
 export default () => {
-  return <div> Learn React </div>
+  return (
+    <>
+      <Form />
+    </>
+  )
 }
