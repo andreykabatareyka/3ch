@@ -1,4 +1,5 @@
+import { Form } from 'components/form'
 import App from './App'
-import Form from './Form'
+import Post from './Post'
 
-export { App, Form }
+export { App, Form, Post }
